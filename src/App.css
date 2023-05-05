@@ -1,0 +1,71 @@
+/*
+
+在沒有emotion之前，會透過定義CSS Class的方式，並將這些Class套用在元件的className屬性中。
+故有emotion後，可將此檔案移除
+
+.container{
+  background-color: #ededed;
+  height:100%;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.weather-card{
+  min-width:360px;
+  box-shadow:0 1px 3px 0 #999999;
+  background-color: #f9f9f9;
+}
+
+*/
+
+
+
+
+
+
+/*
+【內建內容】
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+*/
+
+
+
+
